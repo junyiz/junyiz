@@ -3,7 +3,7 @@ Formerly at Ctrip, ZhongAn, and Alibaba; now an indie developer / full-stack eng
 
 
 ## Socials:
-[![Twitter](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://x.com/Junyily)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Junyily)
 
 
 ## Products:
